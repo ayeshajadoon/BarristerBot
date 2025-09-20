@@ -2,6 +2,12 @@
 
 **BarristerBot** is a Generative AI-based legal chatbot designed to provide **personalized legal advice and solutions** according to **Pakistani law**. The system leverages **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)** to deliver accessible, accurate, and context-aware legal guidance.  
 
+## 📖 Thesis
+
+You can read the full thesis for this project here:  
+📄 [BarristerBot Thesis (PDF)](./thesis/BarristerBot_Thesis.pdf)
+
+
 🔗 **Live Demo:** [barrister-bot.vercel.app](https://barrister-bot.vercel.app/)  
 📂 **Dataset:** [Pakistan Law Data (Kaggle)](https://www.kaggle.com/datasets/ayeshajadoon/pakistan-law-data)  
 📑 **Source of Laws:** [Ministry of Law and Justice, Pakistan](https://molaw.gov.pk/)  
