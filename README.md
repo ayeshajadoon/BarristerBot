@@ -5,7 +5,7 @@
 ## 📖 Thesis
 
 You can read the full thesis for this project here:  
-📄 [BarristerBot Thesis (PDF)](./thesis/BarristerBot_Thesis.pdf)
+📄 [BarristerBot Thesis (PDF)](https://github.com/ayeshajadoon/BarristerBot/blob/03a941c0739f335d85c62969b80ab82c70f892c3/thesis.pdf)
 
 
 🔗 **Live Demo:** [barrister-bot.vercel.app](https://barrister-bot.vercel.app/)  
