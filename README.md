@@ -4,13 +4,16 @@
 
 ## 📖 Thesis
 
-You can read the full thesis for this project here:  
-📄 [BarristerBot Thesis (PDF)](https://github.com/ayeshajadoon/BarristerBot/blob/03a941c0739f335d85c62969b80ab82c70f892c3/thesis.pdf)
+You can read the full thesis for this project here:  📄 [BarristerBot Thesis (PDF)](https://github.com/ayeshajadoon/BarristerBot/blob/03a941c0739f335d85c62969b80ab82c70f892c3/thesis.pdf)
 
-
-🔗 **Live Demo:** [barrister-bot.vercel.app](https://barrister-bot.vercel.app/)  
+ 
 📂 **Dataset:** [Pakistan Law Data (Kaggle)](https://www.kaggle.com/datasets/ayeshajadoon/pakistan-law-data)  
 📑 **Source of Laws:** [Ministry of Law and Justice, Pakistan](https://molaw.gov.pk/)  
+🔗 **Live Demo:** [barrister-bot.vercel.app](https://barrister-bot.vercel.app/)   
+Please note:
+- Some features may not work currently due to expired APIs or third-party service limits.
+- For full functionality, you can run the project locally (see instructions below).
+
 
 ---
 
@@ -23,6 +26,15 @@ You can read the full thesis for this project here:
 - 🔑 **Secure authentication** with JWT and Google Social Login  
 - 💾 Conversation history management with **Hasura + GraphQL**  
 - 🌐 Fully deployed on **Vercel** for seamless accessibility  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayeshajadoon/BarristerBot/main/images/architectural%20diagram.png" width="700" alt="System Architecture Diagram">
+  <br>
+  <em>System Architecture of BarristerBot</em>
+</p>
+
 
 ---
 
@@ -47,6 +59,28 @@ The dataset powering BarristerBot consists of **Pakistani legal documents** extr
 
 - Processed and curated dataset available on Kaggle:  
   👉 [Pakistan Law Data](https://www.kaggle.com/datasets/ayeshajadoon/pakistan-law-data)  
+
+---
+## 🖼️ User Interface Preview
+
+### 🏠 Home Page
+<p align="center"><img src="https://raw.githubusercontent.com/ayeshajadoon/BarristerBot/main/images/home%20page.png" width="700" alt="Home Page"><br>
+  <em>Home Page of BarristerBot</em> </p>
+
+<br>
+
+### 🔐 Login Page
+<p align="center"> <img src="https://raw.githubusercontent.com/ayeshajadoon/BarristerBot/main/images/login.png" width="700" alt="BarristerBot Login Page"> <br> <em>Figure 2: Secure JWT-based login with Google authentication.</em> </p>
+
+<br>
+
+### 🌙 Dark Mode Interface
+<p align="center"> <img src="https://raw.githubusercontent.com/ayeshajadoon/BarristerBot/main/images/dark mode.png" width="700" alt="BarristerBot Dark Mode Interface"> <br> <em>Figure 3: Dark theme interface for better accessibility and comfort.</em> </p>
+
+<br>
+
+### 🗣️ Text and Speech Interaction
+<p align="center"> <img src="https://raw.githubusercontent.com/ayeshajadoon/BarristerBot/main/images/text to speech.png" width="700" alt="BarristerBot Text and Speech Interaction"> <br> <em>Figure 4: Voice-enabled legal consultation powered by Google Speech-to-Text.</em> </p>
 
 ---
 
