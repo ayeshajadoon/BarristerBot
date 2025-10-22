@@ -29,6 +29,8 @@ Please note:
 
 ---
 
+## Structure Architecture
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayeshajadoon/BarristerBot/main/images/architectural%20diagram.png" width="700" alt="System Architecture Diagram">
   <br>
